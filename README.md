@@ -10,6 +10,7 @@ elimina tutte le vocali e la invia nuovamente al client.
 5. Il client legge la risposta inviata dal server e visualizza la risposta sullo standard output,
 dopodiché termina il processo e chiude la connessione
 6. Il server resta in attesa di richieste di connessione da parte di altri client.
+
 Assegnazione 2: Socket UDP e DNS in C
 Progettare ed implementare un’applicazione UDP client/server conforme al seguente protocollo:
 1. Il client legge da tastiera il nome dell’host e il numero di porta del server da contattare.
